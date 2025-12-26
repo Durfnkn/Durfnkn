@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Saurabh Pal
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;Web+Developer;Java+Backend+Developer" alt="Typing SVG" />
+</p>
+
+
 🚀 Java Developer | Spring & Spring Boot | Backend Enthusiast
 
 I am a passionate Java developer with a strong foundation in **Core Java**, **Spring Framework**, and **backend development**.  
